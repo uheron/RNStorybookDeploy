@@ -12,7 +12,7 @@
     "prestart": "yarn update-stories",
     "storybook-watcher": "sb-rn-watcher --config-path .ondevice",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook -o docs-build"
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "react": "18.1.0",
